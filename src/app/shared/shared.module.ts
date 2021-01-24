@@ -9,4 +9,3 @@ import { InputComponent } from './input/input.component';
   exports: [InputComponent]
 })
 export class SharedModule { }
-
